@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FormsOfClient</string>
+    <string name="btn_get_structure">Get structure</string>
+    <string name="btn_fill_form">Fill form</string>
+    <string name="title_activity_form_of_client">FormOfClient</string>
+    <string name="btn_send">Send</string>
+    <string name="question_text_4">Beneficiary acknowledges using the equipment in his/her business activity</string>
+    <string name="question_text_3">Actual presence</string>
+    <string name="question_text_2">Beneficiary confirms being currently engaged in the mentioned business activity</string>
+    <string name="question_text_1">Fill</string>
+    <string name="textview_text_2">What was the grant amount that you received from DRC?:</string>
+</resources>
